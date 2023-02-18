@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lucky",
+  "name": "Boanator Block",
+  "description": "The Boanator Block Mod",
+  "version": "7.0.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Anicename"],
+  "credits": "Created by Anicename",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
